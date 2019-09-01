@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+        "projectName": "Mount-Rainer-Insights-Dashboard",
+        "projectPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+        "packagesPath": "C:\\Users\\zwill\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\zwill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "CsvTextFieldParser": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
