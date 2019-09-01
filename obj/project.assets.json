@@ -1530,11 +1530,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
       "projectName": "Mount-Rainer-Insights-Dashboard",
-      "projectPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+      "projectPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
       "packagesPath": "C:\\Users\\zwill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainer-Insights-Dashboard\\obj\\",
+      "outputPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

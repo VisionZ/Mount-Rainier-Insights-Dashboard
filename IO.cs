@@ -21,18 +21,6 @@ namespace MountRainerInsights
             get; set;
         }
 
-        public static object CreateInstance(Type t)
-        {
-            try
-            {
-                return t.GetConstructor(new Type[] { }).Invoke(new object[] { });
-            }
-            catch
-            {
-                return null;
-            }
-        }
-
         public LinkedList<CsvSerializable> ParseFromFile(Type exactType)
         {
             if (!typeof(CsvSerializable).IsAssignableFrom(exactType))
@@ -74,23 +62,14 @@ namespace MountRainerInsights
                     try
                     {
                         string[] fieldValues = parser.ReadFields();
-                        object created = CreateInstance(exactType);
-                        if (created is CsvSerializable)
+                        CsvSerializable cast = (CsvSerializable)Util.CreateInstance(exactType);
+                        if (cast.Import(fieldValues))
                         {
-                            CsvSerializable instance = (CsvSerializable)created;
-                            if (instance.Import(fieldValues))
-                            {
-                                parsedList.AddLast(instance);
-                            }
-                            else
-                            {
-                                ++errors;
-                            }
+                            parsedList.AddLast(cast);
                         }
                         else
                         {
-                            Console.WriteLine("Could not create an instance of " + exactType + ".");
-                            return new LinkedList<CsvSerializable>();
+                            ++errors;
                         }
                     }
                     catch (Exception ex)

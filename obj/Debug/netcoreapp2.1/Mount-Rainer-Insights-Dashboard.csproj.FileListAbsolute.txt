@@ -9,3 +9,14 @@ C:\Users\zwill\Documents\GitHub\Mount-Rainer-Insights-Dashboard\obj\Debug\netcor
 C:\Users\zwill\Documents\GitHub\Mount-Rainer-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfo.cs
 C:\Users\zwill\Documents\GitHub\Mount-Rainer-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
 C:\Users\zwill\Documents\GitHub\Mount-Rainer-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.deps.json
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.runtimeconfig.json
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.runtimeconfig.dev.json
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.csprojAssemblyReference.cache
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfoInputs.cache
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfo.cs
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
+C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb

@@ -34,6 +34,18 @@ namespace MountRainerInsights
             return null;
         }
 
+        public static object CreateInstance(Type type)
+        {
+            try
+            {
+                return type.GetConstructor(new Type[] { }).Invoke(new object[] { });
+            }
+            catch
+            {
+                return null;
+            }
+        }
+
         public static void PrintProperties(object obj)
         {
             foreach (PropertyDescriptor descriptor in TypeDescriptor.GetProperties(obj))
