@@ -14,6 +14,10 @@ Getting Started:
 3) Clone this repository
 4) Open this repository with Visual Studio Code
 5) In Visual Studio Code go to: Terminal -> New Terminal
-6) In the terminal, navigate to the Mount-Rainier-Insights-Dashboard folder (the outermost directory) 
+6) In the VS Code terminal, navigate to the Mount-Rainier-Insights-Dashboard folder (the outermost directory) 
 7) Install CsvTextFieldParser 1.2.1 and NEST 7.2.1 using dotnet add package
-8) In the same outermost directory use dotnet run to populate the Kibana dashboard
+8) Run Elasticsearch.bat in the Elasticsearch bin folder
+9) Run Kibana.bat in the Kibana bin folder
+10) In the VS Code terminal, use dotnet run to index the data to Elasticsearch
+11) In your browser go to http://localhost:5600 (this is the Kibana server)
+12) Create a new dashboard and start playing around with the data!
