@@ -1,4 +1,4 @@
-# Mount-Rainer-Insights-Dashboard
+# Mount-Rainier-Insights-Dashboard
 
 A Kibana dashboard app that displays insightful climb and weather data  
 that helps prospector climbers plan for a trip to Mount Rainier.
