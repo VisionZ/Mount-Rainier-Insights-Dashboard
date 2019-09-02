@@ -1,6 +1,6 @@
 # Mount-Rainier-Insights-Dashboard
 
-A Kibana dashboard app that displays insightful climb and weather data  
+A user-responsive Kibana dashboard app that displays insightful climb and weather data  
 that helps climbers plan for a trip to Mount Rainier.
 
 Technologies Used: Elasticsearch, Kibana, .NET, C#
