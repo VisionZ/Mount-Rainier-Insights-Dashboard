@@ -5,7 +5,7 @@ using Nest;
 
 namespace MountRainerInsights
 {
-    public class AirBnbInsights
+    public class ElasticIndexer
     {
         public static void Main(string[] args)
         {

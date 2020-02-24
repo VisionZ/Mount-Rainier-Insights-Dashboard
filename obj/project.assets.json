@@ -1524,23 +1524,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zwill\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\HP Gaming\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+      "projectUniqueName": "C:\\Users\\HP Gaming\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
       "projectName": "Mount-Rainer-Insights-Dashboard",
-      "projectPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
-      "packagesPath": "C:\\Users\\zwill\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zwill\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\obj\\",
+      "projectPath": "C:\\Users\\HP Gaming\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\Mount-Rainer-Insights-Dashboard.csproj",
+      "packagesPath": "C:\\Users\\HP Gaming\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP Gaming\\Documents\\GitHub\\Mount-Rainier-Insights-Dashboard\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\zwill\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP Gaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1569,6 +1565,7 @@
             "version": "[1.2.1, )"
           },
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true
@@ -1579,10 +1576,16 @@
           }
         },
         "imports": [
-          "net461"
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

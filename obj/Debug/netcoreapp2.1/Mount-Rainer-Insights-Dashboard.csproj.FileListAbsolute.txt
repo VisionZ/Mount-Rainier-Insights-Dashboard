@@ -20,3 +20,13 @@ C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netco
 C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfo.cs
 C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
 C:\Users\zwill\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.deps.json
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.runtimeconfig.json
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.runtimeconfig.dev.json
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\bin\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.csprojAssemblyReference.cache
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfoInputs.cache
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.AssemblyInfo.cs
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.dll
+C:\Users\HP Gaming\Documents\GitHub\Mount-Rainier-Insights-Dashboard\obj\Debug\netcoreapp2.1\Mount-Rainer-Insights-Dashboard.pdb
